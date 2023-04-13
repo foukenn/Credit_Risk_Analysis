@@ -64,3 +64,7 @@
 
 ------------------
 ## Summary
+
+All models do not predict high credit risk precisely enough to correctly detect fraud. The model which has the best accuracy and F1 results, the EasyEnsembleClassifier, still only has an 8% chance of detection and was highly sensitive (93%). Using these models would produce a plethora of false postives which would cause major issues if used to detect fraudulent credits. 
+
+If I were to recommend any model it would be the EasyEnsemble, as it had the highest score for accuracy and F1, however this one still produces numerous false positives.
