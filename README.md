@@ -6,3 +6,28 @@
  - Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk.
  - Deliverable 4: A Written Report on the Credit Risk Analysis (README.md).
 ------------------
+## Results
+
+### NAIVE RANDOM OVERSAMPLING
+
+### SMOTE
+
+### UNDERSAMPLING
+
+### OVER & UNDERSAMPLING (SMOTEENN)
+
+### RANDOM FOREST CLASSIFIER
+
+### EASY ENSEMBLE ADABOOST CLASSIFIER
+
+
+
+
+
+
+
+
+
+
+------------------
+## Summary
